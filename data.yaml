@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Galao - Presenca de Oleo', 'Presenca de Oleo - - 40ml']
+
+roboflow:
+  workspace: welding-avvrq
+  project: oilai
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/welding-avvrq/oilai/dataset/1
