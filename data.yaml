@@ -2,12 +2,12 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 2
-names: ['Galao - Presenca de Oleo', 'Presenca de Oleo - - 40ml']
+nc: 18
+names: ['Borda de Oleo - - 20ml', 'Borda de Oleo - - 30ml', 'Borda de Oleo - - 40ml', 'Borda de Oleo - - 50ml', 'Galao', 'Presenca de Oleo - - 10ml', 'Presenca de Oleo - - 110ml', 'Presenca de Oleo - - 140ml', 'Presenca de Oleo - - 170ml', 'Presenca de Oleo - - 200ml', 'Presenca de Oleo - - 20ml', 'Presenca de Oleo - - 30ml', 'Presenca de Oleo - - 40ml', 'Presenca de Oleo - - 50ml', 'Presenca de Oleo - - 60ml', 'Presenca de Oleo - - 70ml', 'Presenca de Oleo - - 80ml', 'Seringa de Oleo - 10ml']
 
 roboflow:
-  workspace: welding-avvrq
-  project: oilai
+  workspace: projetos-ai
+  project: oilai-nm10w
   version: 1
-  license: Public Domain
-  url: https://universe.roboflow.com/welding-avvrq/oilai/dataset/1
+  license: Private
+  url: https://app.roboflow.com/projetos-ai/oilai-nm10w/1
