@@ -5,16 +5,16 @@ val: valid/images
 test: test/images
 
 names: 
-  0: Presenca de Oleo - - 10ml
-  1: Presenca de Oleo - - 110ml
-  2: Presenca de Oleo - - 140ml
-  3: Presenca de Oleo - - 170ml
-  4: Presenca de Oleo - - 200ml
-  5: Presenca de Oleo - - 20ml
-  6: Presenca de Oleo - - 30ml
-  7: Presenca de Oleo - - 40ml
-  8: Presenca de Oleo - - 50ml
-  9: Presenca de Oleo - - 60ml
-  10: Presenca de Oleo - - 70ml
-  11: Presenca de Oleo - - 80ml
+  0: Presenca de Oleo - 10ml
+  1: Presenca de Oleo - 110ml
+  2: Presenca de Oleo - 140ml
+  3: Presenca de Oleo - 170ml
+  4: Presenca de Oleo - 200ml
+  5: Presenca de Oleo - 20ml
+  6: Presenca de Oleo - 30ml
+  7: Presenca de Oleo - 40ml
+  8: Presenca de Oleo - 50ml
+  9: Presenca de Oleo - 60ml
+  10: Presenca de Oleo - 70ml
+  11: Presenca de Oleo - 80ml
   12: Seringa de Oleo - 10ml
