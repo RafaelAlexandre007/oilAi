@@ -1,13 +1,20 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+path: ../datasets/roboflow
 
-nc: 18
-names: ['Borda de Oleo - - 20ml', 'Borda de Oleo - - 30ml', 'Borda de Oleo - - 40ml', 'Borda de Oleo - - 50ml', 'Galao', 'Presenca de Oleo - - 10ml', 'Presenca de Oleo - - 110ml', 'Presenca de Oleo - - 140ml', 'Presenca de Oleo - - 170ml', 'Presenca de Oleo - - 200ml', 'Presenca de Oleo - - 20ml', 'Presenca de Oleo - - 30ml', 'Presenca de Oleo - - 40ml', 'Presenca de Oleo - - 50ml', 'Presenca de Oleo - - 60ml', 'Presenca de Oleo - - 70ml', 'Presenca de Oleo - - 80ml', 'Seringa de Oleo - 10ml']
+train: train/images
+val: valid/images
+test: test/images
 
-roboflow:
-  workspace: projetos-ai
-  project: oilai-nm10w
-  version: 1
-  license: Private
-  url: https://app.roboflow.com/projetos-ai/oilai-nm10w/1
+names: 
+  0: Presenca de Oleo - - 10ml
+  1: Presenca de Oleo - - 110ml
+  2: Presenca de Oleo - - 140ml
+  3: Presenca de Oleo - - 170ml
+  4: Presenca de Oleo - - 200ml
+  5: Presenca de Oleo - - 20ml
+  6: Presenca de Oleo - - 30ml
+  7: Presenca de Oleo - - 40ml
+  8: Presenca de Oleo - - 50ml
+  9: Presenca de Oleo - - 60ml
+  10: Presenca de Oleo - - 70ml
+  11: Presenca de Oleo - - 80ml
+  12: Seringa de Oleo - 10ml

@@ -1,8 +1,8 @@
 
-oilAi - v1 2024-09-14 12:06am
+oilAi - v2 2024-09-20 5:54pm
 ==============================
 
-This dataset was exported via roboflow.com on September 14, 2024 at 12:07 AM GMT
+This dataset was exported via roboflow.com on September 20, 2024 at 5:54 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,8 +17,8 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 104 images.
-OilDetect are annotated in YOLOv8 format.
+The dataset includes 63 images.
+OilDetect are annotated in YOLOv8 Oriented Object Detection format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
